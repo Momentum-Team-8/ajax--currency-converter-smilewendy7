@@ -34,3 +34,4 @@ const currencies = [
   'MYR'
 ]
 
+
